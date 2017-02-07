@@ -1,0 +1,8 @@
+1. Seeding Data
+2. Returning a nested json (dto) object
+3. Login api returning api token
+4. Authentication middleware
+5. Add Priority (enum property) after initial model is created in the database.
+6. Add ParentTask (reference property) after initial model is created in the database.
+7. Add a child entity collection property.
+8. Unit Of Work at Controller/AppService layer.

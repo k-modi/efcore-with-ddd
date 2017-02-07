@@ -1,0 +1,84 @@
+// Todo Seed data
+[
+    {
+        "summary": "Seed Item 1",
+        "dueDate": "2017-02-10T12:35:00",
+        "owner": {
+            "username": "joedoe"
+        },
+        "comments": [
+            {
+                "text": "Comment 1 for Seed Item 1",
+                "commenter": {
+                    "name": "joedoe"
+                }
+            },
+            {
+                "text": "Comment 2 for Seed Item 1",
+                "commenter": {
+                    "name": "sally"
+                }
+            },
+            {
+                "text": "Comment 3 for Seed Item 1",
+                "commenter": {
+                    "name": "joedoe"
+                }
+            }
+        ]
+    },
+    {
+        "summary": "Seed Item 2",
+        "dueDate": "2017-02-05T08:30:00",
+        "owner": {
+            "username": "sally"
+        },
+        "comments": [
+            {
+                "text": "Comment 1 for Seed Item 2",
+                "commenter": {
+                    "name": "joedoe"
+                }
+            },
+            {
+                "text": "Comment 2 for Seed Item 2",
+                "commenter": {
+                    "name": "james"
+                }
+            },
+            {
+                "text": "Comment 3 for Seed Item 2",
+                "commenter": {
+                    "name": "shaun"
+                }
+            },
+            {
+                "text": "Comment 4 for Seed Item 2",
+                "commenter": {
+                    "name": "james"
+                }
+            },
+            {
+                "text": "Comment 5 for Seed Item 3",
+                "commenter": {
+                    "name": "sally"
+                }
+            }
+        ]
+    },
+    {
+        "summary": "Seed Item 3",
+        "dueDate": "2017-01-31T17:00:00",
+        "owner": {
+            "username": "james"
+        },
+        "comments": [
+            {
+                "text": "Comment 1 for Seed Item 3",
+                "commenter": {
+                    "name": "joedoe"
+                }
+            }
+        ]
+    }
+]

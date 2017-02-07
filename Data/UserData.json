@@ -1,0 +1,23 @@
+// User Seed data
+[
+    {
+        "name": "Joe Doe",
+        "email": "joe.doe@gmail.com",
+        "username": "joedoe"
+    },
+    {
+        "name": "Sally Smith",
+        "email": "ss@gmail.com",
+        "username": "sally"
+    },
+    {
+        "name": "James Dawson",
+        "email": "jd@gmail.com",
+        "username": "james"
+    },
+    {
+        "name": "Shaun Smith",
+        "email": "ss@gmail.com",
+        "username": "shaun"
+    }
+]
