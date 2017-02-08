@@ -8,7 +8,6 @@ namespace efcore2_webapi.Webapp.Controllers
     [Route("/api/[controller]")]
     public class CommentController : Controller
     {
-        //test comment
         private readonly ICommentRepository _commentRepository;
 
         public CommentController(ICommentRepository commentRepository)
