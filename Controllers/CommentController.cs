@@ -15,7 +15,7 @@ namespace efcore2_webapi.Webapp.Controllers
             _commentRepository = commentRepository;            
         }
 
-        [HttpPost()]
+        [HttpPost]
         public IActionResult PostComment([FromBody] Comment comment)
         {
             try
