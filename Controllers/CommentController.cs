@@ -8,6 +8,8 @@ namespace efcore2_webapi.Webapp.Controllers
     [Route("/api/[controller]")]
     public class CommentController : Controller
     {
+        //try commit with ss user
+        
         private readonly ICommentRepository _commentRepository;
 
         public CommentController(ICommentRepository commentRepository)
